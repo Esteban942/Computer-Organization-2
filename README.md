@@ -1,4 +1,5 @@
 # COMPUTER ORGANIZATION 2
+
 This repository showcases my work for Computer Organization 2, where I developed a kernel from scratch as part of the course. Through this project, I implemented and explored core operating system concepts, including:
 
 - Assembly Language and C Programming for low-level system development.
